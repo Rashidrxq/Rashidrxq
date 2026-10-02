@@ -1,581 +1,273 @@
-<!--
-  RASHIDOS // PERSONAL DEVELOPER SYSTEM
-  Profile README for github.com/Rashidrxq
--->
+<!-- MUHAMMED RASHID P P // GITHUB PROFILE -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:00d4ff&height=240&section=header&text=RASHIDOS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MUHAMMED%20RASHID%20P%20P%20%2F%2F%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=16&descColor=67e8f9" width="100%" alt="RASHIDOS Header"/>
+# MUHAMMED RASHID P P
+
+### Software Engineer · Full-Stack Developer · AI Builder
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=00D4FF&center=true&vCenter=true&width=760&lines=BOOTING+RASHIDOS...;SOFTWARE+ENGINEER;FULL-STACK+%2B+AI+BUILDER;BUILDING+SOFTWARE+THAT+DOES+THINGS.;SYSTEM+STATUS%3A+ONLINE" alt="Typing SVG"/>
+I build **useful software**, explore **AI**, and turn ideas into working products.
 
 <br/><br/>
 
 <a href="https://github.com/Rashidrxq">
-  <img src="https://komarev.com/ghpvc/?username=Rashidrxq&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/GitHub-Rashidrxq-111111?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/Rashidrxq?tab=followers">
-  <img src="https://img.shields.io/github/followers/Rashidrxq?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=111827" alt="Followers"/>
-</a>
-<a href="https://github.com/Rashidrxq?tab=stars">
-  <img src="https://img.shields.io/github/stars/Rashidrxq?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=f59e0b" alt="Stars"/>
-</a>
-
-<br/><br/>
-
-<code>SYSTEM STATUS</code> <strong>● ONLINE</strong>
-&nbsp;&nbsp;
-<code>VERSION</code> <strong>2026.10</strong>
-&nbsp;&nbsp;
-<code>USER</code> <strong>RASHID</strong>
-
-</div>
-
----
-
-# `> boot`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                         RASHIDOS                             ║
-║                  PERSONAL DEV SYSTEM                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [OK] Loading developer profile..........................    ║
-║  [OK] Loading projects....................................    ║
-║  [OK] Loading technology stack............................    ║
-║  [OK] Loading current objectives...........................    ║
-║  [OK] Loading caffeine.....................................    ║
-║                                                              ║
-║  SYSTEM STATUS: ONLINE                                       ║
-║  ACCESS: PUBLIC                                              ║
-║                                                              ║
-║  Welcome, visitor.                                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# `> whoami`
-
-<div align="center">
-
-## MUHAMMED RASHID P P
-
-### `Software Engineer` · `Full-Stack Developer` · `AI Builder`
-
-</div>
-
-```ts
-const rashid = {
-  name: "Muhammed Rashid P P",
-  role: "Software Engineer",
-  location: "Kerala, India",
-
-  focus: [
-    "Full-Stack Development",
-    "AI / Machine Learning",
-    "Automation",
-    "Product Engineering"
-  ],
-
-  building: [
-    "Job-Agent",
-    "AI-powered applications",
-    "Developer tools"
-  ],
-
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Flask"],
-    database: ["PostgreSQL", "MySQL", "SQLite"],
-    ai: ["Python", "PyTorch", "TensorFlow", "YOLO"],
-    cloud: ["Vercel", "AWS"]
-  }
-};
-```
-
----
-
-# `> system --status`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ SYSTEM INFORMATION                                          │
-├─────────────────────────────────────────────────────────────┤
-│ USER          rashid                                        │
-│ ROLE          software-engineer                             │
-│ LOCATION      kerala, india                                 │
-│ STATUS        ● building                                    │
-│ CURRENT       Job-Agent                                     │
-│ FOCUS         AI · FULL-STACK · AUTOMATION                  │
-│ LEARNING      RAG · AI AGENTS · SYSTEM DESIGN               │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `> ls /work`
-
-## `01` — 🤖 JOB-AGENT
-
-> AI-powered job discovery and application workflow.
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ JOB-AGENT                                                    │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  DISCOVER  →  ANALYZE  →  MATCH  →  APPLY                   │
-│                                                              │
-│  • Job discovery                                             │
-│  • Job description analysis                                  │
-│  • ATS keyword matching                                      │
-│  • Resume management                                         │
-│  • Application workflow                                      │
-│                                                              │
-│  STACK: React · TypeScript · Tailwind · Vite · Node ·        │
-│         Express                                               │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-<a href="https://github.com/Rashidrxq/Job-Agent">
-<img src="https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Job-Agent GitHub"/>
-</a>
-</div>
-
----
-
-## `02` — 🏢 SALESORDER ERP
-
-> Business workflow and order management system.
-
-```text
-SALES
-  │
-  ▼
-STORE
-  │
-  ▼
-PRODUCTION
-  │
-  ▼
-STORE
-  │
-  ▼
-BILLING
-  │
-  ▼
-DISPATCH
-  │
-  ▼
-CUSTOMER
-```
-
-### Core Features
-
-`Role-based Auth` · `Sales Orders` · `Product DB` · `Production Requests`  
-`Notifications` · `PDF Generation` · `Billing` · `Tally Workflow`
-
-**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
-
-<div align="center">
-<a href="https://sales-order-erp-remex.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE-APPLICATION-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Application"/>
-</a>
-<a href="https://github.com/Rashidrxq/SalesOrder-ERP-REMEX">
-<img src="https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="SalesOrder ERP GitHub"/>
-</a>
-</div>
-
----
-
-## `03` — 🛒 WALQ
-
-> Multi-platform e-commerce ecosystem.
-
-```text
-                         WALQ
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-             ▼             ▼             ▼
-         CUSTOMER       DELIVERY       ADMIN
-            APP            APP           WEB
-             │             │             │
-             └─────────────┼─────────────┘
-                           │
-                           ▼
-                        BACKEND
-                           │
-                           ▼
-                       DATABASE
-```
-
-**Platforms:** `Customer App` · `Delivery App` · `Admin Dashboard`
-
----
-
-## `04` — 🧠 AVIPATH
-
-> AI-powered computer vision and prediction system.
-
-```text
-                         INPUT
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-             ▼                           ▼
-       POULTRY IMAGES              ENVIRONMENT DATA
-             │                           │
-             └─────────────┬─────────────┘
-                           ▼
-                     AI PROCESSING
-                           │
-                  ┌────────┴────────┐
-                  ▼                 ▼
-             DISEASE            PREDICTION
-             DETECTION            MODEL
-```
-
-**Technologies:** `Python` `YOLOv8` `EfficientNet` `ANN` `TensorFlow` `Flutter` `Flask`
-
----
-
-# `> ls /stack`
-
-### LANGUAGES
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,php,dart&theme=dark" alt="Languages"/>
-</div>
-
-### FRONTEND
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
-</div>
-
-### BACKEND
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" alt="Backend"/>
-</div>
-
-### DATABASE
-<div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,prisma&theme=dark" alt="Database"/>
-</div>
-
-### AI / MACHINE LEARNING
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI / ML"/>
-</div>
-
-### TOOLS / CLOUD
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,vercel,aws&theme=dark" alt="Tools and Cloud"/>
-</div>
-
----
-
-# `> cat /now`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                         CURRENTLY                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ████████████████████░░░░  AI ENGINEERING                   ║
-║                                                              ║
-║  → Generative AI                                             ║
-║  → RAG Systems                                               ║
-║  → AI Agents                                                 ║
-║  → Computer Vision                                           ║
-║  → Full-Stack AI                                             ║
-║  → System Design                                             ║
-║  → Cloud                                                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# `> tree /mind`
-
-```text
-AI ENGINEERING
-│
-├── LLMs
-│   ├── Prompt Engineering
-│   ├── RAG
-│   └── AI Applications
-│
-├── AI AGENTS
-│   ├── Tool Calling
-│   ├── Automation
-│   └── Intelligent Workflows
-│
-├── COMPUTER VISION
-│   ├── YOLO
-│   ├── Image Classification
-│   └── Object Detection
-│
-└── SOFTWARE ENGINEERING
-    ├── Full-Stack
-    ├── System Design
-    ├── APIs
-    ├── Databases
-    └── Cloud
-```
-
----
-
-# `> github --stats`
-
-<div align="center">
-
-<a href="https://github.com/Rashidrxq">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rashidrxq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidrxq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Rashidrxq&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashidrxq&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-# `> github --repositories`
-
-<div align="center">
-
-<a href="https://github.com/Rashidrxq/Job-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidrxq&repo=Job-Agent&theme=tokyonight&hide_border=true" alt="Job-Agent"/>
-</a>
-
-<a href="https://github.com/Rashidrxq/SalesOrder-ERP-REMEX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidrxq&repo=SalesOrder-ERP-REMEX&theme=tokyonight&hide_border=true" alt="SalesOrder ERP"/>
-</a>
-
-</div>
-
----
-
-# `> cat /philosophy`
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  01   UNDERSTAND THE PROBLEM                                │
-│  02   DESIGN THE SIMPLEST SOLUTION                          │
-│  03   BUILD THE SMALLEST WORKING VERSION                    │
-│  04   BREAK IT                                               │
-│  05   FIX IT                                                 │
-│  06   SHIP IT                                                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### The goal isn't to know every technology.
-
-### The goal is to become exceptionally good at solving problems with technology.
-
-</div>
-
----
-
-# `> history`
-
-<details>
-<summary><b>📂 DEVELOPMENT TIMELINE</b></summary>
-
-<br/>
-
-| YEAR | MILESTONE |
-|:---:|:---|
-| `2022` | Started seriously exploring software development |
-| `2023` | Built web and mobile applications |
-| `2024` | Expanded into full-stack development |
-| `2025` | B.Tech IT · Real-world software projects |
-| `2026` | AI engineering · Automation · Product development |
-| `2027 →` | Building production-grade AI systems |
-
-</details>
-
----
-
-# `> ls /lab`
-
-<details>
-<summary><b>🧪 EXPERIMENTS & SIDE PROJECTS</b></summary>
-
-<br/>
-
-```text
-┌──────────────────────────────────────────────┐
-│                  RASHID LAB                  │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [01] AI Agents                              │
-│  [02] RAG Systems                            │
-│  [03] LLM Applications                       │
-│  [04] Computer Vision                        │
-│  [05] Automation                             │
-│  [06] Developer Tools                        │
-│  [07] System Design                          │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</details>
-
----
-
-# `> ls /learning`
-
-<details>
-<summary><b>📚 CURRENT LEARNING QUEUE</b></summary>
-
-<br/>
-
-```text
-[████████████████░░░░] AI / ML
-
-[██████████████░░░░░░] Full-Stack Engineering
-
-[████████████░░░░░░░░] System Design
-
-[██████████░░░░░░░░░░] Cloud Engineering
-
-[████████░░░░░░░░░░░░] AI Agents
-```
-
-</details>
-
----
-
-# `> cat /principles`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  BUILD THINGS                                                │
-│                                                             │
-│  Don't just watch tutorials.                                │
-│  Solve real problems.                                       │
-│  Learn by breaking things.                                  │
-│  Understand what you build.                                 │
-│  Ship before it's perfect.                                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `> connect`
-
-<div align="center">
-
-<a href="https://github.com/Rashidrxq">
-<img src="https://img.shields.io/badge/GITHUB-Rashidrxq-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.instagram.com/rshidxxmhd">
-<img src="https://img.shields.io/badge/INSTAGRAM-rshidxxmhd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
+&nbsp;
 <a href="https://gate2027-azure.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&logo=vercel&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/rshidxxmhd">
+<img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
 
-**Open to interesting problems, collaborations and building useful software.**
+## I LIKE BUILDING THINGS THAT ACTUALLY WORK.
+
+</div>
+
+<br/>
+
+I'm **Rashid**, a B.Tech IT graduate from Kerala, India, focused on software engineering, full-stack development and AI.
+
+I enjoy taking an idea from **problem → architecture → code → deployment**.
+
+Currently, I'm going deeper into **AI engineering, RAG, AI agents, system design and cloud**, while continuing to build full-stack products.
+
+<br/>
+
+---
+
+## SELECTED WORK
+
+### 01 / JOB-AGENT
+
+**AI-powered job discovery and application platform**
+
+A system designed around the workflow:
+
+`DISCOVER → ANALYZE → MATCH → APPLY`
+
+**Built with**
+
+`React` · `TypeScript` · `Tailwind CSS` · `Vite` · `Node.js` · `Express` · `SQLite`
+
+**Focus**
+
+Job discovery · JD analysis · ATS matching · Resume management · Application workflow
+
+<br/>
+
+<a href="https://github.com/Rashidrxq/Job-Agent">VIEW PROJECT →</a>
+
+---
+
+### 02 / SALESORDER ERP
+
+**End-to-end business workflow platform**
+
+A real-world ERP workflow connecting:
+
+`SALES → STORE → PRODUCTION → BILLING → DISPATCH → CUSTOMER`
+
+**Built with**
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL`
+
+**Includes**
+
+Role-based access · Sales orders · Product management · Production requests · Notifications · PDF generation · Billing workflow
+
+<br/>
+
+<a href="https://sales-order-erp-remex.vercel.app/">LIVE DEMO →</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Rashidrxq/SalesOrder-ERP-REMEX">SOURCE CODE →</a>
+
+---
+
+### 03 / WALQ
+
+**Multi-platform e-commerce ecosystem**
+
+A commerce platform built around three experiences:
+
+`CUSTOMER APP` · `DELIVERY APP` · `ADMIN WEB`
+
+Designed to connect customer ordering, delivery operations and administration through a unified backend.
+
+---
+
+### 04 / AVIPATH
+
+**AI-powered computer vision and prediction**
+
+Exploring AI for poultry disease detection and prediction.
+
+**Technologies**
+
+`Python` · `YOLOv8` · `EfficientNet` · `ANN` · `TensorFlow` · `Flask` · `Flutter`
+
+---
+
+<br/>
+
+## TECHNOLOGY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php,dart&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,flask&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,prisma&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,docker,linux,vscode,vercel,aws&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+## CURRENTLY
+
+<table>
+<tr>
+<td width="50%">
+
+### BUILDING
+
+- Job-Agent
+- AI-powered applications
+- Developer tools
+- Full-stack products
+
+</td>
+<td width="50%">
+
+### LEARNING
+
+- Generative AI
+- RAG
+- AI Agents
+- System Design
+- Cloud Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## THE WAY I BUILD
+
+<div align="center">
+
+**UNDERSTAND**
+
+↓
+
+**DESIGN**
+
+↓
+
+**BUILD**
+
+↓
+
+**TEST**
+
+↓
+
+**SHIP**
+
+↓
+
+**ITERATE**
+
+</div>
+
+<br/>
+
+> I don't want to collect technologies.
+>
+> I want to become better at **solving problems with technology**.
+
+---
+
+## GITHUB
+
+<div align="center">
+
+<a href="https://github.com/Rashidrxq">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rashidrxq&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=9CA3AF&bg_color=00000000&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidrxq&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=9CA3AF&bg_color=00000000&langs_count=8" />
+
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Rashidrxq&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=9CA3AF&dates=6B7280" />
 
 </div>
 
 ---
 
-# `> easter_egg`
+## A LITTLE MORE
 
 <details>
-<summary>🔐 EXECUTE HIDDEN COMMAND</summary>
+<summary><b>What I'm interested in</b></summary>
 
 <br/>
 
-```text
-$ sudo make-coffee
+Software architecture, AI products, developer tooling, automation, computer vision, databases, cloud infrastructure and anything that turns a difficult problem into a useful product.
 
-[████████████████████████████████] 100%
+</details>
 
-☕ Coffee initialized.
+<details>
+<summary><b>What I'm looking for</b></summary>
 
-$ ./motivation
+<br/>
 
-"First make it work.
- Then make it right.
- Then make it fast."
-
-$ ./debug
-
-Searching for bugs...
-
-████████████████████████████████ 100%
-
-Found: ████████
-
-Location: everywhere.
-
-$ exit
-```
+Opportunities to work on challenging software, collaborate with good engineers, build products and keep learning.
 
 </details>
 
 ---
 
-# `> contribution --snake`
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Rashidrxq/Rashidrxq/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    BUILD • LEARN • SHIP                      ║
-║                                                              ║
-║                         RASHIDOS                             ║
-║                                                              ║
-║                    SYSTEM ONLINE ●                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
-`© 2026 MUHAMMED RASHID P P`
+### LET'S BUILD SOMETHING.
 
-<br/>
+<a href="https://github.com/Rashidrxq">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://gate2027-azure.vercel.app/">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.instagram.com/rshidxxmhd">Instagram</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f172a,100:020617&height=140&section=footer" width="100%" alt="Footer"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00d4ff&height=120&section=footer" width="100%" />
 
 </div>
