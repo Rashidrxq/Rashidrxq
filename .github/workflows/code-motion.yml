@@ -1,0 +1,107 @@
+name: Generate Code Motion Animation
+
+on:
+  push:
+    paths:
+      - ".github/workflows/code-motion.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate animated code GIF
+        run: |
+          python -m pip install --quiet pillow
+          python <<'PY'
+          from PIL import Image, ImageDraw, ImageFont
+          import os, math
+
+          W, H = 1200, 300
+          FRAMES = 48
+          OUT = "assets/code-motion.gif"
+          os.makedirs("assets", exist_ok=True)
+
+          try:
+              font = ImageFont.truetype("DejaVuSansMono.ttf", 17)
+              small = ImageFont.truetype("DejaVuSansMono.ttf", 12)
+          except:
+              font = ImageFont.load_default()
+              small = ImageFont.load_default()
+
+          snippets = [
+              ('const build = async () => {', '  await ship(product);', '};'),
+              ('import React from "react";', 'export default App;', '// build'),
+              ('SELECT * FROM projects;', "WHERE status = 'building';", '// database'),
+              ('git commit -m "ship"', 'git push origin main', '# deployed'),
+              ('function solve(problem) {', '  return solution;', ' }'),
+              ('python train(model, data)', 'model.fit(X, y)', '# AI'),
+              ('npm run build', 'npm run deploy', '// production'),
+          ]
+
+          frames = []
+          cyan = (0, 212, 255)
+          muted = (105, 130, 150)
+          bg = (5, 11, 20)
+
+          for frame in range(FRAMES):
+              im = Image.new("RGB", (W, H), bg)
+              d = ImageDraw.Draw(im)
+
+              # subtle grid
+              for x in range(0, W, 80):
+                  d.line((x, 0, x, H), fill=(12, 24, 36), width=1)
+              for y in range(0, H, 50):
+                  d.line((0, y, W, y), fill=(12, 24, 36), width=1)
+
+              for i, lines in enumerate(snippets):
+                  x = 35 + i * 175
+                  direction = 1 if i % 2 == 0 else -1
+                  speed = 3 + (i % 3)
+                  offset = (frame * speed * direction + i * 47) % (H + 180)
+                  y = offset - 120 if direction == 1 else H + 40 - offset
+
+                  for j, line in enumerate(lines):
+                      yy = y + j * 24
+                      if -30 < yy < H + 30:
+                          d.text((x, yy), line, font=font, fill=cyan if j == 0 else muted)
+
+              # top/bottom fade bands
+              for n in range(35):
+                  alpha = int(255 * (1 - n / 35))
+                  d.rectangle((0, n, W, n+1), fill=tuple(int(bg[k] * (1-alpha/255) + bg[k] * (alpha/255)) for k in range(3)))
+                  d.rectangle((0, H-n-1, W, H-n), fill=bg)
+
+              d.line((0, H-32, W, H-32), fill=(0, 212, 255), width=1)
+              label = "CODE IN MOTION  ·  BUILD  ·  SHIP  ·  ITERATE"
+              bbox = d.textbbox((0,0), label, font=small)
+              d.text(((W-(bbox[2]-bbox[0]))/2, H-22), label, font=small, fill=(139,148,158))
+
+              frames.append(im)
+
+          frames[0].save(
+              OUT,
+              save_all=True,
+              append_images=frames[1:],
+              duration=90,
+              loop=0,
+              optimize=True
+          )
+          print(f"Generated {OUT}")
+          PY
+
+      - name: Commit animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/code-motion.gif
+          git diff --cached --quiet || git commit -m "chore: refresh animated code motion"
+          git push
