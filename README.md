@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="assets/code-motion.svg" width="100%" alt="Animated programming code in motion"/>
+<img src="https://raw.githubusercontent.com/Rashidrxq/Rashidrxq/main/assets/code-motion.gif" width="100%" alt="Animated programming code in motion"/>
 
 </div>
 
