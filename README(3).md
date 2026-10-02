@@ -1,9 +1,4 @@
-<!-- 
-  HOW TO USE
-  1. On GitHub, create a PUBLIC repo named exactly the same as your username (e.g. github.com/johndoe/johndoe)
-  2. Add this file as README.md
-  3. Find & replace: YOUR_USERNAME, YOUR NAME, and the other placeholders
--->
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20YOUR%20NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%" alt="header"/>
 
@@ -23,9 +18,9 @@
 
 ```js
 const me = {
-  name: "YOUR NAME",
-  role: "Software Developer",
-  location: "Your City, Country",
+  name: "MUHAMMED RASHID P P",
+  role: "Software Developer | Frontend Developer | Fullstack Developer",
+  location: "Kozhikode, India",
   currentlyBuilding: "Your main project here",
   currentlyLearning: ["TypeScript", "System Design", "Cloud"],
   funFact: "I debug with console.log and I'm not ashamed",
