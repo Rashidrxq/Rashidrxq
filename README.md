@@ -1,20 +1,35 @@
+<!--
+  RASHIDOS // PERSONAL DEVELOPER SYSTEM
+  Profile README for github.com/Rashidrxq
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:00d4ff&height=240&section=header&text=RASHIDOS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MUHAMMED%20RASHID%20P%20P%20%2F%2F%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=16&descColor=67e8f9" width="100%" alt="RASHIDOS Header"/>
 
-<br>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=00D4FF&center=true&vCenter=true&width=760&lines=BOOTING+RASHIDOS...;SOFTWARE+ENGINEER;FULL-STACK+%2B+AI+BUILDER;BUILDING+SOFTWARE+THAT+DOES+THINGS.;SYSTEM+STATUS%3A+ONLINE" alt="Typing SVG"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rashidrxq&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Rashidrxq?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=111827" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Rashidrxq?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=f59e0b" alt="Stars"/>
+<a href="https://github.com/Rashidrxq">
+  <img src="https://komarev.com/ghpvc/?username=Rashidrxq&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/Rashidrxq?tab=followers">
+  <img src="https://img.shields.io/github/followers/Rashidrxq?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=111827" alt="Followers"/>
+</a>
+<a href="https://github.com/Rashidrxq?tab=stars">
+  <img src="https://img.shields.io/github/stars/Rashidrxq?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=f59e0b" alt="Stars"/>
+</a>
 
-<br><br>
+<br/><br/>
 
-`SYSTEM STATUS` **● ONLINE** &nbsp;&nbsp; `VERSION` **2026.10** &nbsp;&nbsp; `USER` **RASHID**
+<code>SYSTEM STATUS</code> <strong>● ONLINE</strong>
+&nbsp;&nbsp;
+<code>VERSION</code> <strong>2026.10</strong>
+&nbsp;&nbsp;
+<code>USER</code> <strong>RASHID</strong>
 
 </div>
 
@@ -35,6 +50,7 @@
 ║  [OK] Loading caffeine.....................................    ║
 ║                                                              ║
 ║  SYSTEM STATUS: ONLINE                                       ║
+║  ACCESS: PUBLIC                                              ║
 ║                                                              ║
 ║  Welcome, visitor.                                           ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -46,13 +62,13 @@
 
 <div align="center">
 
-## **MUHAMMED RASHID P P**
+## MUHAMMED RASHID P P
 
-### `Software Engineer` • `Full-Stack Developer` • `AI Builder`
+### `Software Engineer` · `Full-Stack Developer` · `AI Builder`
 
 </div>
 
-```js
+```ts
 const rashid = {
   name: "Muhammed Rashid P P",
   role: "Software Engineer",
@@ -65,13 +81,19 @@ const rashid = {
     "Product Engineering"
   ],
 
-  currentlyBuilding: [
+  building: [
     "Job-Agent",
     "AI-powered applications",
     "Developer tools"
   ],
 
-  philosophy: "Build. Break. Learn. Ship. Repeat."
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Flask"],
+    database: ["PostgreSQL", "MySQL", "SQLite"],
+    ai: ["Python", "PyTorch", "TensorFlow", "YOLO"],
+    cloud: ["Vercel", "AWS"]
+  }
 };
 ```
 
@@ -83,17 +105,13 @@ const rashid = {
 ┌─────────────────────────────────────────────────────────────┐
 │ SYSTEM INFORMATION                                          │
 ├─────────────────────────────────────────────────────────────┤
-│                                                             │
 │ USER          rashid                                        │
 │ ROLE          software-engineer                             │
 │ LOCATION      kerala, india                                 │
 │ STATUS        ● building                                    │
-│                                                             │
 │ CURRENT       Job-Agent                                     │
-│ LEARNING      AI · RAG · SYSTEM DESIGN                      │
-│                                                             │
-│ PRIMARY       React · Next.js · TypeScript · Python         │
-│                                                             │
+│ FOCUS         AI · FULL-STACK · AUTOMATION                  │
+│ LEARNING      RAG · AI AGENTS · SYSTEM DESIGN               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -103,7 +121,7 @@ const rashid = {
 
 ## `01` — 🤖 JOB-AGENT
 
-> **AI-powered job discovery and application automation platform**
+> AI-powered job discovery and application workflow.
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -118,25 +136,22 @@ const rashid = {
 │  • Resume management                                         │
 │  • Application workflow                                      │
 │                                                              │
-│  STACK                                                        │
-│  React · TypeScript · Tailwind · Vite · Node · Express       │
-│                                                              │
+│  STACK: React · TypeScript · Tailwind · Vite · Node ·        │
+│         Express                                               │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
-
 <a href="https://github.com/Rashidrxq/Job-Agent">
 <img src="https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Job-Agent GitHub"/>
 </a>
-
 </div>
 
 ---
 
 ## `02` — 🏢 SALESORDER ERP
 
-> **Business workflow and order management system**
+> Business workflow and order management system.
 
 ```text
 SALES
@@ -162,35 +177,25 @@ CUSTOMER
 
 ### Core Features
 
-- 🔐 Role-based authentication
-- 📦 Product management
-- 🧾 Sales order management
-- 🏭 Production requests
-- 🔔 Workflow notifications
-- 📄 PDF generation
-- 💰 Billing workflow
-- 📊 Pending / completed tracking
-- 🔗 Tally integration workflow
+`Role-based Auth` · `Sales Orders` · `Product DB` · `Production Requests`  
+`Notifications` · `PDF Generation` · `Billing` · `Tally Workflow`
 
 **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
 <div align="center">
-
 <a href="https://sales-order-erp-remex.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE-APPLICATION-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Application"/>
 </a>
-
 <a href="https://github.com/Rashidrxq/SalesOrder-ERP-REMEX">
 <img src="https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="SalesOrder ERP GitHub"/>
 </a>
-
 </div>
 
 ---
 
 ## `03` — 🛒 WALQ
 
-> **Multi-platform e-commerce ecosystem**
+> Multi-platform e-commerce ecosystem.
 
 ```text
                          WALQ
@@ -210,15 +215,13 @@ CUSTOMER
                        DATABASE
 ```
 
-**Platforms**
-
-`Customer App` • `Delivery App` • `Admin Dashboard`
+**Platforms:** `Customer App` · `Delivery App` · `Admin Dashboard`
 
 ---
 
 ## `04` — 🧠 AVIPATH
 
-> **AI-powered computer vision and prediction system**
+> AI-powered computer vision and prediction system.
 
 ```text
                          INPUT
@@ -245,37 +248,31 @@ CUSTOMER
 # `> ls /stack`
 
 ### LANGUAGES
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,php,dart&theme=dark" alt="Languages"/>
 </div>
 
 ### FRONTEND
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="Frontend"/>
 </div>
 
 ### BACKEND
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" alt="Backend"/>
 </div>
 
 ### DATABASE
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,prisma&theme=dark" alt="Database"/>
 </div>
 
 ### AI / MACHINE LEARNING
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI / ML"/>
 </div>
 
 ### TOOLS / CLOUD
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,vercel,aws&theme=dark" alt="Tools and Cloud"/>
 </div>
@@ -339,18 +336,15 @@ AI ENGINEERING
 <div align="center">
 
 <a href="https://github.com/Rashidrxq">
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rashidrxq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidrxq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
 </a>
 
-<br><br>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Rashidrxq&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 
-<br><br>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashidrxq&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 
@@ -382,23 +376,18 @@ AI ENGINEERING
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  01   UNDERSTAND THE PROBLEM                                │
-│                                                             │
 │  02   DESIGN THE SIMPLEST SOLUTION                          │
-│                                                             │
-│  03   BUILD THE SMALLEST WORKING VERSION                   │
-│                                                             │
+│  03   BUILD THE SMALLEST WORKING VERSION                    │
 │  04   BREAK IT                                               │
-│                                                             │
 │  05   FIX IT                                                 │
-│                                                             │
 │  06   SHIP IT                                                │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### **The goal isn't to know every technology.**
+### The goal isn't to know every technology.
 
-### **The goal is to become exceptionally good at solving problems with technology.**
+### The goal is to become exceptionally good at solving problems with technology.
 
 </div>
 
@@ -409,15 +398,15 @@ AI ENGINEERING
 <details>
 <summary><b>📂 DEVELOPMENT TIMELINE</b></summary>
 
-<br>
+<br/>
 
 | YEAR | MILESTONE |
 |:---:|:---|
 | `2022` | Started seriously exploring software development |
 | `2023` | Built web and mobile applications |
 | `2024` | Expanded into full-stack development |
-| `2025` | B.Tech IT • Real-world software projects |
-| `2026` | AI engineering • Automation • Product development |
+| `2025` | B.Tech IT · Real-world software projects |
+| `2026` | AI engineering · Automation · Product development |
 | `2027 →` | Building production-grade AI systems |
 
 </details>
@@ -429,7 +418,7 @@ AI ENGINEERING
 <details>
 <summary><b>🧪 EXPERIMENTS & SIDE PROJECTS</b></summary>
 
-<br>
+<br/>
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -456,7 +445,7 @@ AI ENGINEERING
 <details>
 <summary><b>📚 CURRENT LEARNING QUEUE</b></summary>
 
-<br>
+<br/>
 
 ```text
 [████████████████░░░░] AI / ML
@@ -481,14 +470,10 @@ AI ENGINEERING
 │                                                             │
 │  BUILD THINGS                                                │
 │                                                             │
-│  Don't just watch tutorials.                               │
-│                                                             │
+│  Don't just watch tutorials.                                │
 │  Solve real problems.                                       │
-│                                                             │
 │  Learn by breaking things.                                  │
-│                                                             │
 │  Understand what you build.                                 │
-│                                                             │
 │  Ship before it's perfect.                                  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -514,7 +499,7 @@ AI ENGINEERING
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -529,7 +514,7 @@ AI ENGINEERING
 <details>
 <summary>🔐 EXECUTE HIDDEN COMMAND</summary>
 
-<br>
+<br/>
 
 ```text
 $ sudo make-coffee
@@ -585,11 +570,11 @@ $ exit
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+<br/>
 
 `© 2026 MUHAMMED RASHID P P`
 
-<br>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f172a,100:020617&height=140&section=footer" width="100%" alt="Footer"/>
 
