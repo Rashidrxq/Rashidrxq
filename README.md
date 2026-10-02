@@ -18,6 +18,12 @@
 
 <div align="center">
 
+<img src="assets/code-motion.svg" width="100%" alt="Animated programming code in motion"/>
+
+</div>
+
+<div align="center">
+
 ### FEATURED LINKS
 
 <a href="https://github.com/Rashidrxq/Job-Agent">JOB-AGENT →</a>
