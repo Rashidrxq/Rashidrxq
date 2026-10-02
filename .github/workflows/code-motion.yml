@@ -97,11 +97,3 @@ jobs:
           )
           print(f"Generated {OUT}")
           PY
-
-      - name: Commit animation
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/code-motion.gif
-          git diff --cached --quiet || git commit -m "chore: refresh animated code motion"
-          git push
