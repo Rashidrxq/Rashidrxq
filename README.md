@@ -1,273 +1,70 @@
-<!-- MUHAMMED RASHID P P // GITHUB PROFILE -->
-
 <div align="center">
 
-# MUHAMMED RASHID P P
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Muhammed Rashid P P — Software Engineer"/></picture>
 
-### Software Engineer · Full-Stack Developer · AI Builder
-
-<br/>
-
-I build **useful software**, explore **AI**, and turn ideas into working products.
-
-<br/><br/>
-
-<a href="https://github.com/Rashidrxq">
-<img src="https://img.shields.io/badge/GitHub-Rashidrxq-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://gate2027-azure.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&logo=vercel&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/rshidxxmhd">
-<img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white" />
-</a>
+<a href="https://gate2027-azure.vercel.app/">PORTFOLIO</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Rashidrxq">GITHUB</a>
+&nbsp; · &nbsp;
+<a href="https://www.instagram.com/rshidxxmhd">INSTAGRAM</a>
 
 </div>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="Who am I"/></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="System map"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Selected projects"/></picture>
 
 <div align="center">
 
-## I LIKE BUILDING THINGS THAT ACTUALLY WORK.
+### FEATURED LINKS
 
-</div>
-
-<br/>
-
-I'm **Rashid**, a B.Tech IT graduate from Kerala, India, focused on software engineering, full-stack development and AI.
-
-I enjoy taking an idea from **problem → architecture → code → deployment**.
-
-Currently, I'm going deeper into **AI engineering, RAG, AI agents, system design and cloud**, while continuing to build full-stack products.
-
-<br/>
-
----
-
-## SELECTED WORK
-
-### 01 / JOB-AGENT
-
-**AI-powered job discovery and application platform**
-
-A system designed around the workflow:
-
-`DISCOVER → ANALYZE → MATCH → APPLY`
-
-**Built with**
-
-`React` · `TypeScript` · `Tailwind CSS` · `Vite` · `Node.js` · `Express` · `SQLite`
-
-**Focus**
-
-Job discovery · JD analysis · ATS matching · Resume management · Application workflow
-
-<br/>
-
-<a href="https://github.com/Rashidrxq/Job-Agent">VIEW PROJECT →</a>
-
----
-
-### 02 / SALESORDER ERP
-
-**End-to-end business workflow platform**
-
-A real-world ERP workflow connecting:
-
-`SALES → STORE → PRODUCTION → BILLING → DISPATCH → CUSTOMER`
-
-**Built with**
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL`
-
-**Includes**
-
-Role-based access · Sales orders · Product management · Production requests · Notifications · PDF generation · Billing workflow
-
-<br/>
-
-<a href="https://sales-order-erp-remex.vercel.app/">LIVE DEMO →</a>
+<a href="https://github.com/Rashidrxq/Job-Agent">JOB-AGENT →</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Rashidrxq/SalesOrder-ERP-REMEX">SOURCE CODE →</a>
-
----
-
-### 03 / WALQ
-
-**Multi-platform e-commerce ecosystem**
-
-A commerce platform built around three experiences:
-
-`CUSTOMER APP` · `DELIVERY APP` · `ADMIN WEB`
-
-Designed to connect customer ordering, delivery operations and administration through a unified backend.
-
----
-
-### 04 / AVIPATH
-
-**AI-powered computer vision and prediction**
-
-Exploring AI for poultry disease detection and prediction.
-
-**Technologies**
-
-`Python` · `YOLOv8` · `EfficientNet` · `ANN` · `TensorFlow` · `Flask` · `Flutter`
-
----
-
-<br/>
-
-## TECHNOLOGY
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php,dart&theme=dark" />
+<a href="https://sales-order-erp-remex.vercel.app/">SALESORDER ERP →</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Rashidrxq/SalesOrder-ERP-REMEX">SOURCE →</a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,flask&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,prisma&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,docker,linux,vscode,vercel,aws&theme=dark" />
-
-</div>
-
-<br/>
-
----
-
-## CURRENTLY
-
-<table>
-<tr>
-<td width="50%">
-
-### BUILDING
-
-- Job-Agent
-- AI-powered applications
-- Developer tools
-- Full-stack products
-
-</td>
-<td width="50%">
-
-### LEARNING
-
-- Generative AI
-- RAG
-- AI Agents
-- System Design
-- Cloud Engineering
-
-</td>
-</tr>
-</table>
-
----
-
-## THE WAY I BUILD
-
-<div align="center">
-
-**UNDERSTAND**
-
-↓
-
-**DESIGN**
-
-↓
-
-**BUILD**
-
-↓
-
-**TEST**
-
-↓
-
-**SHIP**
-
-↓
-
-**ITERATE**
-
-</div>
-
-<br/>
-
-> I don't want to collect technologies.
->
-> I want to become better at **solving problems with technology**.
-
----
-
-## GITHUB
-
-<div align="center">
-
-<a href="https://github.com/Rashidrxq">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rashidrxq&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=9CA3AF&bg_color=00000000&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidrxq&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=9CA3AF&bg_color=00000000&langs_count=8" />
-
+<a href="https://github.com/Rashidrxq/Job-Agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidrxq&repo=Job-Agent&theme=transparent&hide_border=true&title_color=00D4FF&text_color=9CA3AF&bg_color=00000000" alt="Job-Agent"/>
+</a>
+<a href="https://github.com/Rashidrxq/SalesOrder-ERP-REMEX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashidrxq&repo=SalesOrder-ERP-REMEX&theme=transparent&hide_border=true&title_color=00D4FF&text_color=9CA3AF&bg_color=00000000" alt="SalesOrder ERP"/>
 </a>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Rashidrxq&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=9CA3AF&dates=6B7280" />
-
 </div>
 
----
-
-## A LITTLE MORE
-
-<details>
-<summary><b>What I'm interested in</b></summary>
-
-<br/>
-
-Software architecture, AI products, developer tooling, automation, computer vision, databases, cloud infrastructure and anything that turns a difficult problem into a useful product.
-
-</details>
-
-<details>
-<summary><b>What I'm looking for</b></summary>
-
-<br/>
-
-Opportunities to work on challenging software, collaborate with good engineers, build products and keep learning.
-
-</details>
-
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Engineering telemetry"/></picture>
 
 <div align="center">
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics"/></picture>
 
-### LET'S BUILD SOMETHING.
-
-<a href="https://github.com/Rashidrxq">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://gate2027-azure.vercel.app/">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.instagram.com/rshidxxmhd">Instagram</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00d4ff&height=120&section=footer" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rashidrxq&bg_color=00000000&color=ffffff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashidrxq&bg_color=00000000&color=111827&line=0891b2&point=111827&area_color=0891b2&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
 </div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+
+<div align="center">
+
+## CURRENTLY BUILDING
+
+**AI engineering · RAG · AI agents · Full-stack products · Automation**
+
+<br/>
+
+<a href="https://gate2027-azure.vercel.app/">PORTFOLIO →</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Rashidrxq">EXPLORE GITHUB →</a>
+
+</div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Let's build something useful"/></picture>
+
+<!-- Designed for Rashid — inspired by visual portfolio-style GitHub profiles, with original assets. -->
